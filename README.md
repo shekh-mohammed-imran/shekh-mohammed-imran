@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-I am an **AZ-400 certified Azure DevOps Engineer with 15+ years of overall IT experience**, including **5+ years focused on Azure cloud, Infrastructure as Code, CI/CD automation, GitOps and DevSecOps**, based on the professional summary on my LinkedIn profile. My focus is building repeatable infrastructure, improving delivery workflows, and bringing security and governance checks earlier into the delivery lifecycle.
+I am an AZ-400 certified Azure DevOps Engineer with 15+ years of IT infrastructure experience (since 2011), including 7+ years of hands-on Azure experience across hybrid (on-premises data centre + Azure) environments: Azure operations since 2019, and Azure DevOps, Infrastructure as Code, CI/CD, GitOps and DevSecOps since 2022. Experienced in designing and implementing CI/CD pipelines, Infrastructure as Code (IaC), cloud automation, and secure, scalable Azure infrastructure using Terraform, ARM/Bicep, Azure DevOps, GitHub Actions, and AKS.
 
 I work with **Microsoft Azure, Terraform, ARM/Bicep, Azure DevOps, GitHub Actions, AKS/Kubernetes, Azure Landing Zones, Azure Policy, Azure Monitor and cloud security tooling**. My earlier background in enterprise infrastructure and systems administration supports strong platform-level troubleshooting. My portfolio documents hands-on learning and implementation work; each repository describes what is currently implemented versus planned.
 
