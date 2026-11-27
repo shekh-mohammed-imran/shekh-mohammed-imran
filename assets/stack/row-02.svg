@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="img" aria-label="Terraform, ARM / Bicep, AKS, Kubernetes, Helm, Docker, ACR">
+  <rect x="130.0" y="2" width="102" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="181.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Terraform</text>
+  <rect x="242.0" y="2" width="117" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="300.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">ARM / Bicep</text>
+  <rect x="369.0" y="2" width="55" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="396.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">AKS</text>
+  <rect x="434.0" y="2" width="110" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="489.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Kubernetes</text>
+  <rect x="554.0" y="2" width="63" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="585.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Helm</text>
+  <rect x="627.0" y="2" width="78" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="666.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Docker</text>
+  <rect x="715.0" y="2" width="55" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="742.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">ACR</text>
+</svg>

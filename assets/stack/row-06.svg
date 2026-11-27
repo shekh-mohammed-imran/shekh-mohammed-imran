@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 86" width="900" height="86" role="img" aria-label="App Service, Function Apps, APIM, Application Gateway, Front Door, WAF, Data Factory, Logic Apps, Service Bus, Event Grid">
+  <rect x="28.5" y="2" width="117" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="87.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">App Service</text>
+  <rect x="155.5" y="2" width="133" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="222.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Function Apps</text>
+  <rect x="298.5" y="2" width="63" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="330.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">APIM</text>
+  <rect x="371.5" y="2" width="180" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="461.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Application Gateway</text>
+  <rect x="561.5" y="2" width="110" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="616.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Front Door</text>
+  <rect x="681.5" y="2" width="55" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="709.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">WAF</text>
+  <rect x="746.5" y="2" width="125" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="809.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Data Factory</text>
+  <rect x="271.5" y="44" width="110" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="326.5" y="65" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Logic Apps</text>
+  <rect x="391.5" y="44" width="117" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="450.0" y="65" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Service Bus</text>
+  <rect x="518.5" y="44" width="110" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="573.5" y="65" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Event Grid</text>
+</svg>

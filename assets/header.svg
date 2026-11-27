@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Shekh Mohammed Imran - Azure DevOps Engineer. Landing zones, pipelines, guardrails.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06142A"/><stop offset="0.55" stop-color="#0B2A52"/><stop offset="1" stop-color="#0A4A7C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00C7FF" stop-opacity="0.35"/><stop offset="1" stop-color="#00C7FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#9fe6ff" fill-opacity="0.18"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
+    <clipPath id="clip"><rect width="1200" height="340" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+
+    <text x="60" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="5" fill="#00C7FF">AZURE  ·  TERRAFORM  ·  GITOPS</text>
+    <text x="60" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#00C7FF" opacity="0.55" filter="url(#blur)">Shekh Mohammed Imran</text>
+    <text x="60" y="142" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#fff">Shekh Mohammed Imran</text>
+    <text x="60" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#CFEFFF">Azure DevOps Engineer</text>
+    <text x="60" y="230" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="17" fill="#7fe3ff">landing zones. pipelines. guardrails.</text>
+    <rect x="60" y="262" width="146" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#9fe6ff" stroke-opacity="0.7"/><text x="133.0" y="281" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6F9FF">AZ-400 Certified</text><rect x="218" y="262" width="124" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#9fe6ff" stroke-opacity="0.7"/><text x="280.0" y="281" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6F9FF">15+ yrs in IT</text><rect x="354" y="262" width="139" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#9fe6ff" stroke-opacity="0.7"/><text x="423.5" y="281" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6F9FF">7+ yrs on Azure</text>
+
+    <circle cx="955" cy="170" r="148" fill="none" stroke="#00C7FF" stroke-opacity="0.15"/>
+    <circle cx="955" cy="170" r="118" fill="none" stroke="#00C7FF" stroke-opacity="0.2" stroke-dasharray="2 8"/>
+    <path d="M955,170 L955.0,52.0" stroke="#00C7FF" stroke-opacity="0.55" stroke-width="1.6" stroke-dasharray="4 6" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></path><circle r="3.5" fill="#fff"><animateMotion dur="2.40s" repeatCount="indefinite" path="M955,170 L955.0,52.0"/></circle><path d="M955,170 L1067.2,133.5" stroke="#00C7FF" stroke-opacity="0.55" stroke-width="1.6" stroke-dasharray="4 6" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></path><circle r="3.5" fill="#fff"><animateMotion dur="2.75s" repeatCount="indefinite" path="M955,170 L1067.2,133.5"/></circle><path d="M955,170 L1024.4,265.5" stroke="#00C7FF" stroke-opacity="0.55" stroke-width="1.6" stroke-dasharray="4 6" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></path><circle r="3.5" fill="#fff"><animateMotion dur="3.10s" repeatCount="indefinite" path="M955,170 L1024.4,265.5"/></circle><path d="M955,170 L885.6,265.5" stroke="#00C7FF" stroke-opacity="0.55" stroke-width="1.6" stroke-dasharray="4 6" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></path><circle r="3.5" fill="#fff"><animateMotion dur="3.45s" repeatCount="indefinite" path="M955,170 L885.6,265.5"/></circle><path d="M955,170 L842.8,133.5" stroke="#00C7FF" stroke-opacity="0.55" stroke-width="1.6" stroke-dasharray="4 6" fill="none"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></path><circle r="3.5" fill="#fff"><animateMotion dur="3.80s" repeatCount="indefinite" path="M955,170 L842.8,133.5"/></circle>
+    <circle cx="955" cy="170" r="36" fill="none" stroke="#00C7FF" stroke-width="2">
+      <animate attributeName="r" values="36;54;36" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="955" cy="170" r="36" fill="#0078D4" stroke="#fff" stroke-width="2"/>
+    <text x="955" y="168" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="15" font-weight="800" fill="#fff">HUB</text>
+    <text x="955" y="184" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="10" fill="#CFEFFF">VNet</text>
+    <rect x="928.0" y="37.0" width="54" height="30" rx="8" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.8"/><text x="955.0" y="57.0" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#E6F9FF">PROD</text><rect x="1044.2" y="118.5" width="46" height="30" rx="8" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.8"/><text x="1067.2" y="138.5" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#E6F9FF">UAT</text><rect x="1005.4" y="250.5" width="38" height="30" rx="8" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.8"/><text x="1024.4" y="270.5" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#E6F9FF">DR</text><rect x="866.6" y="250.5" width="38" height="30" rx="8" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.8"/><text x="885.6" y="270.5" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#E6F9FF">DC</text><rect x="807.8" y="118.5" width="70" height="30" rx="8" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.8"/><text x="842.8" y="138.5" text-anchor="middle" font-family="Cascadia Code, Consolas, Menlo, monospace" font-size="13" font-weight="700" fill="#E6F9FF">SHARED</text>
+    <text x="955" y="318" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#9fe6ff">12 SUBSCRIPTIONS  ·  HUB-AND-SPOKE</text>
+  </g>
+</svg>

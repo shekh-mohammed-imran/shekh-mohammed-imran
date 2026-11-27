@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="28" viewBox="0 0 136 28" role="img" aria-label="imranai.in">
+  <rect x="0.75" y="0.75" width="134.5" height="26.5" rx="13.25" fill="#0B1F3A" stroke="#00C7FF" stroke-opacity="0.75" stroke-width="1.5"/>
+  <circle cx="15" cy="14" r="4.5" fill="#00C7FF"/>
+  <text x="28" y="18.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#fff">imranai.in</text>
+  <path d="M116 19 L123 12 M117 12 L123 12 L123 18" stroke="#9fe6ff" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 44" width="900" height="44" role="img" aria-label="Linux, Windows Server, VMware, Hyper-V, Nutanix">
+  <rect x="199.0" y="2" width="71" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="234.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Linux</text>
+  <rect x="280.0" y="2" width="141" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="350.5" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Windows Server</text>
+  <rect x="431.0" y="2" width="78" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="470.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">VMware</text>
+  <rect x="519.0" y="2" width="86" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="562.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Hyper-V</text>
+  <rect x="615.0" y="2" width="86" height="32" rx="16" fill="#0F2A4A" stroke="#00C7FF" stroke-opacity="0.7"/>
+  <text x="658.0" y="23" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#E6F4FF">Nutanix</text>
+</svg>
