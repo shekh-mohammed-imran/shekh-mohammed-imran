@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Let's build reliable, secure delivery pipelines together">
+  <defs><linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00C7FF"/><stop offset="0.5" stop-color="#0078D4"/><stop offset="1" stop-color="#0B1F3A"/>
+  </linearGradient></defs>
+  <rect width="1200" height="110" rx="14" fill="url(#fg)"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#fff">Let's build reliable, secure delivery pipelines together</text>
+</svg>
